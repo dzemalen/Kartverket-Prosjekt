@@ -1,7 +1,5 @@
 # Kartverket-Prosjekt
 
-> Et profesjonelt, dokumentert utgangspunkt for videreutvikling av et kart-/geodatarelatert system.
-
 ## Kort prosjektbeskrivelse
 Dette repoet er per i dag et **grunnskjelett** uten implementert applikasjonskode. Formålet med denne versjonen er å etablere en ryddig, produksjonsnær dokumentasjonsstruktur som gjør prosjektet tydelig for bidragsytere og arbeidsgivere.
 
